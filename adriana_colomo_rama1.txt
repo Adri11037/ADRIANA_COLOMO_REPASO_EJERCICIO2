@@ -1,4 +1,8 @@
 Primer archivo en la rama
+<<<<<<< HEAD
 Segunda linea añadidia
 Tercera linea añadiida
 Cuarta linea añadida
+=======
+Nueva linea
+>>>>>>> adriana_colomo_rama
